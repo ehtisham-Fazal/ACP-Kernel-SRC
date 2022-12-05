@@ -35,6 +35,7 @@ Performance Results:
 
 we have implemented our Kernel-SRC model on acp_740 data_set ,Combine both acp_740 and acp_240 data set and then implement our kernel-SRC model and compare with LSTM model from ACP_DA paper[1].
 we have also implemented our Kernel-SRC model on ACP_344 data set and compare our result with paper[2]. Our model perfomance on both data_Set is better than papers model.
+All figures of the Kernel-SRC model inlcuded in Figures folder
 
 Refrences:
 
