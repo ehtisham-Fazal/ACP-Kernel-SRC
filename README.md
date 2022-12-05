@@ -29,9 +29,9 @@ Data_set used for different models scraped from below given links
 Performance Results:
 | model                      | SEN   | SPEC  | F1_SCORE | B_ACC | Y_I   | MCC   |
 |----------------------------|-------|-------|----------|-------|-------|-------|
-| ACP_Kernel-SRC_740            86.23 |  81.62 | 0.84 |  83.94    |  0.67 |  67.11 |
+| ACP_Kernel-SRC_740         | 86.23 | 81.62 | 0.84    | 83.94 |  0.67 |  67.11 |
 | ACP_Kernel-SRC_COMBINED_DATA_SET  | 78.10 | 81.18 | 78.91    | 79.64 | 59.29 | 59.41 |
-| ACP_Kernel-SRC_344           97.07  |  86.97 | 94.11    | 91.89 |  0.84  |  0.85 |
+| ACP_Kernel-SRC_344          | 97.07  |  86.97 | 94.11    | 91.89 |  0.84  |  0.85 |
 
 
 we have implemented our Kernel-SRC model on acp_740 data_set ,Combine both acp_740 and acp_240 data set and then implement our kernel-SRC model and compare with LSTM model from ACP_DA paper[1].
